@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+
+I'm Bryce. I'm a recent UWA graduate. My hobbies include reading, playing board games, and coding.
 
 <!--
 **bryce-oc/bryce-oc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
